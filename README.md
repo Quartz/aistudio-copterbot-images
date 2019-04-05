@@ -1,7 +1,7 @@
 # aistudio-copterbot-images
 
-Using fast.ai to detect circling copters in data images (aka maps).
+In which we used [fast.ai](https://www.fast.ai/) to detect circling copters in data images (aka maps).
 
-For a full writeup of what this is all about, see [this blog post](https://qz.ai/spotting-circling-helicopters/.
+Check out [this Jupyter notebook](./helicopters-circling-images.ipynb) for the code, and see a full writeup of what this is all about in [this blog post](https://qz.ai/spotting-circling-helicopters/).
     
     
